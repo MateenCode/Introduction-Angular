@@ -9,7 +9,7 @@
 * FormModule: Two way data binding from template to component and vice versa using;
 * HttpModule: Ability to fetch values from RestfulAPI;
 * ngIf: Angular of If statement;
-* Ro* uterModule: ability to have single page applications;
+* RouterModule: ability to have single page applications;
 
 # Screen Shot
 
