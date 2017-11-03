@@ -1,15 +1,19 @@
 # Introduction Angular
 
-* Component: A section of the page;
-* String Interpolation: The method used to render properties from the component to HTML;
-* ngOnIt: When an annonymous constructor is needed we use ngOnIt;
-* Interface: Maps out the model of a property;
-* ngFor: Angular version of For loop;
-* EventListener: Having a function run on HTML;
-* FormModule: Two way data binding from template to component and vice versa using;
-* HttpModule: Ability to fetch values from RestfulAPI;
-* ngIf: Angular of If statement;
-* RouterModule: ability to have single page applications;
+# Subjects Covered
+
+#### Template Syntax
+ngFor, ngIf, String Interpolation, ngClasses and ngId, Pipes
+
+#### Events & Forms
+Events: Keyboard & Mouse, ngModel, 2 Way Binding, Form Submission, Validation
+
+#### Services & HTTP
+Service, HTTP Methods
+
+#### Router
+Router, Params & ActivatedRoute
+
 
 # Screen Shot
 
